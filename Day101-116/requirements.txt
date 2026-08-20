@@ -1,0 +1,42 @@
+# Day101-116 量化课程依赖
+# 面向 Python 3.12 + NumPy 2.5.1（conda env: py12）
+# 原课程锁定 Python 3.9 / numpy==1.26.3 / pandas==2.1.4 / matplotlib==3.8.2
+# 此处改为可与 NumPy 2.5.1 共存的版本；pandas 使用 2.3.x，避免跨到 3.x 导致课程代码失效
+#
+# 安装（先不执行，仅作记录）：
+#   conda activate py12
+#   pip install -r requirements.txt
+
+# 核心
+numpy==2.5.1
+pandas==2.3.3
+matplotlib==3.11.1
+tushare==1.4.29
+
+# 数据源
+baostock==0.9.3
+akshare==1.18.91
+yfinance==1.6.0
+
+# 分析 / 机器学习
+scipy==1.18.0
+statsmodels==0.14.6
+scikit-learn==1.9.0
+lightgbm==4.7.0
+PyWavelets==1.9.0
+seaborn==0.13.2
+sympy==1.14.0
+tqdm==4.70.0
+
+# Notebook（Cursor / Jupyter 需要 kernel）
+ipykernel==7.3.0
+
+# Day110 本地回测会用到
+backtrader==1.9.78.123
+SQLAlchemy==2.0.52
+PyMySQL==1.2.0
+hyperopt==0.3.0
+
+# 以下不默认安装：
+# - TA-Lib：需要先编译 C 库，macOS 上经常失败
+# - jqdatasdk / BigQuant / zipline：平台 SDK，本地装了也跑不了对应平台代码

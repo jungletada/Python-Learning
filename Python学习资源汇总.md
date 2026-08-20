@@ -12,8 +12,9 @@
 2. [《基于Python的数据分析》](https://www.zhihu.com/column/c_1217746527315496960)- 我自己在知乎创作的专栏，欢迎大家学习交流
 3. [《说走就走的AI之旅》](https://www.zhihu.com/column/c_1628900668109946880)- 我自己在知乎创作的专栏，欢迎大家学习交流
 4. [《Python - 100天从新手到大师》](https://github.com/jackfrued/Python-100-Days) - 我自己在 GitHub 分享的 Python 学习项目
-5. [《Python 3教程》](https://www.runoob.com/python3/python3-tutorial.html)- 菜鸟教程上的 Python 课程，上面还有很多其他学习资源
-6. [《Python教程》](https://liaoxuefeng.com/books/python/introduction/index.html)- 廖雪峰个人网站上的 Python 课程，上面还有一些其他学习资源
+5. [《WhaleQuant 量化开源课程》](https://github.com/datawhalechina/whale-quant) - Datawhale 量化金融入门课程，本仓库已整理为 Day101~116
+6. [《Python 3教程》](https://www.runoob.com/python3/python3-tutorial.html)- 菜鸟教程上的 Python 课程，上面还有很多其他学习资源
+7. [《Python教程》](https://liaoxuefeng.com/books/python/introduction/index.html)- 廖雪峰个人网站上的 Python 课程，上面还有一些其他学习资源
 
 #### 视频教程
 
