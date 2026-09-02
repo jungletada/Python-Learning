@@ -1,6 +1,6 @@
 ## Python - 100天从新手到大师
 
-> **作者**：骆昊
+> **原作者**：骆昊
 
 ### Python应用领域和职业发展分析
 
@@ -1025,17 +1025,8 @@ Python在以下领域都有用武之地。
 
 ### 第100天 - [补充内容](./Day91-100/100.补充内容.md)
 
-- 面试宝典
-    - Python 面试宝典
-    - SQL 面试宝典（数据分析师）
-    - 商业分析面试宝典
-    - 机器学习面试宝典
 
-- 机器学习数学基础
-- 深度学习
-    - 计算机视觉
-    - 大语言模型
-
+> **二编**: 彭鼎杰
 ### Day101~116 - Python量化交易
 
 > 本部分整理自 Datawhale 开源课程 [whale-quant](https://github.com/datawhalechina/whale-quant)，原课程在线阅读见 [WhaleQuant](https://datawhalechina.github.io/whale-quant/)。内容采用 [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 许可，详细对应关系见 [来源说明](./Day101-116/来源说明.md)。
